@@ -5,6 +5,7 @@ node_modules/
 log.txt
 task.txt
 test.txt
+package-lock.json
 *.log
 npm-debug.log*
 
